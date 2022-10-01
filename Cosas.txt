@@ -1,0 +1,3 @@
+    public function quecansancio(){
+        return "quecansancio " . $this->sexo;
+    }
